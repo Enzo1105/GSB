@@ -1,0 +1,24 @@
+P:\Documents\PPE\Cas GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.dll
+P:\Documents\PPE\Cas GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.pdb
+P:\Documents\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.AssemblyReference.cache
+P:\Documents\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.CoreCompileInputs.cache
+P:\Documents\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.dll
+P:\Documents\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.pdb
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.dll
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.pdb
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.AssemblyReference.cache
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.CoreCompileInputs.cache
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.dll
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.pdb
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.dll
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.pdb
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.AssemblyReference.cache
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.CoreCompileInputs.cache
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.dll
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.pdb
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.dll
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.pdb
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.AssemblyReference.cache
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.CoreCompileInputs.cache
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.dll
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.pdb
