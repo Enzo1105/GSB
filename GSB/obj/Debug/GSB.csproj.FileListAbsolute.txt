@@ -1,0 +1,117 @@
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.exe.config
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.exe
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.pdb
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\LesClasses.dll
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\MySql.Data.dll
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\Google.Protobuf.dll
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\ZstdNet.dll
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Compression.LZ4.Streams.dll
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\BouncyCastle.Crypto.dll
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\System.Memory.dll
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\System.Buffers.dll
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Compression.LZ4.dll
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Hash.xxHash.dll
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\System.Numerics.Vectors.dll
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\LesClasses.pdb
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\MySql.Data.xml
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.AssemblyReference.cache
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.SuggestedBindingRedirects.cache
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.exe.config
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmBase.resources
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmConnexion.resources
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmMenu.resources
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmPraticienListe.resources
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmVisiteAjout.resources
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.cache
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.CoreCompileInputs.cache
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.CopyComplete
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.exe
+P:\Documents\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.pdb
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.AssemblyReference.cache
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.SuggestedBindingRedirects.cache
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.exe.config
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmBase.resources
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmConnexion.resources
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmMenu.resources
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmVisiteAjout.resources
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.cache
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.CoreCompileInputs.cache
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.exe
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.pdb
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.AssemblyReference.cache
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.SuggestedBindingRedirects.cache
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.exe.config
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmBase.resources
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmConnexion.resources
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmMenu.resources
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmPraticienListe.resources
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmVisiteAjout.resources
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.cache
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.CoreCompileInputs.cache
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.exe
+D:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.pdb
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmPraticienAjout.resources
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmVisiteModification.resources
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmMajPraticien.resources
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmVisiteBilanAjout.resources
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmVisiteConsultation.resources
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.exe.config
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.exe
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.pdb
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\LesClasses.dll
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\MySql.Data.dll
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\Google.Protobuf.dll
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\ZstdNet.dll
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\BouncyCastle.Crypto.dll
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\System.Memory.dll
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\System.Buffers.dll
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Compression.LZ4.dll
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Hash.xxHash.dll
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\System.Numerics.Vectors.dll
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\LesClasses.pdb
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\MySql.Data.xml
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.CopyComplete
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmFicheMedicament.resources
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmImpressionRendezVous.resources
+E:\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmListePraticien.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.exe.config
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.exe
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.pdb
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\LesClasses.dll
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\MySql.Data.dll
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\Google.Protobuf.dll
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\ZstdNet.dll
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\BouncyCastle.Crypto.dll
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\System.Memory.dll
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\System.Buffers.dll
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Compression.LZ4.dll
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Hash.xxHash.dll
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\System.Numerics.Vectors.dll
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\LesClasses.pdb
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\bin\Debug\MySql.Data.xml
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.AssemblyReference.cache
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.SuggestedBindingRedirects.cache
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.exe.config
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmBase.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmConnexion.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmFicheMedicament.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmImpressionRendezVous.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmListePraticien.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmMajPraticien.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmMenu.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmPraticienAjout.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmVisiteAjout.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmVisiteBilanAjout.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmVisiteConsultation.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmVisiteModification.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.cache
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.CoreCompileInputs.cache
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.CopyComplete
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.exe
+E:\BTS SIO\SIO 2022.2023\PPE\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.pdb
